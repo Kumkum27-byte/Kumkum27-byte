@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Kumkum27-byte
 - 👀 I’m interested in Software Development, Artificial Intelligence, Machine Learning, and Backend Engineering
 - 🌱 I’m currently learning Advanced Data Structures & Algorithms in Java, and exploring AI/ML concepts.
-- 💞️ I’m looking to collaborate on Open-source projects, Java/Python development, and beginner-friendly AI/ML applications.
+- 💞️ I’m looking to collaborate on Open-source projects, Python development, AI agents and beginner-friendly AI/ML applications.
 - 📫 How to reach me You can reach me via gmail at [Kumkum.morewal27@gmail.com] or connect on LinkedIn[https://www.linkedin.com/in/kumkum-morewal-b9291a278/].
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love solving coding challenges and gonna launch my crohet business soon!
 
 <!---
 Kumkum27-byte/Kumkum27-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
